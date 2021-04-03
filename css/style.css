@@ -1,0 +1,78 @@
+* {
+    padding: 0px;
+    margin: 0 auto;
+     background:rgb(128, 126, 126);
+color: aliceblue;
+
+}
+
+.container {
+    width: 1140px;
+
+
+
+
+}
+
+.relax{
+    width: 100%;
+
+
+
+
+}
+.green{
+    color: green;
+}
+.item{
+float: left;
+width: 60%;
+
+}
+.item h1{
+     margin-top: 62px;
+    font-size: 30px;
+}
+.item h2{font-size: 30px;
+}
+.item ul{
+
+}
+.item p{
+        margin: 10px;
+}
+.item ul li{
+ 
+}
+.btnl{
+    background: #2296ED;
+    padding: 10px 25px;
+    border-radius: 50px;
+    border:none;
+    margin: 15px 0px;
+}
+.form{
+    width: 30%;
+    float: left;
+
+    margin-top: 62px;
+    text-align: center;
+
+
+}
+.form h1{
+
+}
+.inpu{
+    background:white;
+    width: 100%;
+    padding: 7px 2px;
+    margin: 5px 0;
+}
+.form button{
+     background: #2296ED;
+    padding: 10px 25px;
+    border-radius: 50px;
+    border:none;
+    margin: 15px 0px;
+}
